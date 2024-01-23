@@ -7,9 +7,8 @@
 <p align="center"> 
 Languages:
   &nbsp;
-  <img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-xl.png" width="25" height="15">
-  &nbsp;
-  <img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-xl.png" width="25" height="15">
+  <img src="https://www.countryflags.com/wp-content/uploads/france-flag-png-xl.png" width="35" height="20">
+  <img src="https://www.countryflags.com/wp-content/uploads/united-kingdom-flag-png-xl.png" width="35" height="20">
 </p>
 
 
