@@ -22,19 +22,19 @@ Languages:
 
 <div align="center"> 
 
-<a href="mailto:sparpouhy@gmail.com">
+<a href="mailto:sparpouhy@gmail.com" style="text-decoration: none !important">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a> 
-<a href="https://www.facebook.com/Rezzag">
+<a href="https://www.facebook.com/Rezzag" style="text-decoration: none !important">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25">
 </a> 
-<a href="https://www.instagram.com/medrezzag">
+<a href="https://www.instagram.com/medrezzag" style="text-decoration: none !important">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="25">
 </a> 
-<a href="https://www.linkedin.com/in/algerian">
+<a href="https://www.linkedin.com/in/algerian" style="text-decoration: none !important">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
 </a> 
-<a href="https://discordapp.com/users/384812285794975744">
+<a href="https://discordapp.com/users/384812285794975744" style="text-decoration: none !important">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25">
 </a> 
 
