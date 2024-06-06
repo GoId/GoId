@@ -22,7 +22,7 @@ Languages:
 
 <div align="center"> 
 
-<a href="mailto:sparpouhy@gmail.com" textDecoration="none">
+<a href="mailto:sparpouhy@gmail.com" textDecoration="'none'">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a> 
 <a href="https://www.facebook.com/Rezzag">
