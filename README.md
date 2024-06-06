@@ -25,7 +25,7 @@ Languages:
 <a href="mailto:sparpouhy@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25">
 </a> 
-<a href="https://facebook.com/https://www.facebook.com/Rezzag">
+<a href="https://www.facebook.com/Rezzag">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" height="25">
 </a> 
 <a href="https://www.instagram.com/medrezzag">
