@@ -2,7 +2,7 @@
 <h1 align="center"> 💫 About Me: </h1>
 
 
-<p align="center"> Full-time Full Stack Web Developer - Best budget/quality in the market.  </p>
+<p align="center"> Full-time Full Stack Web Developer. Available for offers. </p>
 
 <p align="center"> 
 Languages:
@@ -34,7 +34,7 @@ Languages:
 <a href="https://www.linkedin.com/in/algerian">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="25">
 </a> 
-<a href="https://discord.com/channels/@me/925123922993754142">
+<a href="https://discordapp.com/users/384812285794975744">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25">
 </a> 
 
